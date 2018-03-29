@@ -60,7 +60,7 @@ Projeto desenvolvido pelo time fluig Academy para apresentação do 3º Webinar 
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
-# 1º WEBINAR TÉCNICO : Iniciando “devagarinho” o desenvolvimentocom fluig BPM - Help Desk
+# 1º WEBINAR TÉCNICO : Iniciando “devagarinho” o desenvolvimento com fluig BPM - Help Desk
 
 Objetivo
 ----
